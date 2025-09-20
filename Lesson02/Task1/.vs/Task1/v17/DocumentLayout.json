@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson02\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC4996-78B5-43CF-93DF-87C92F7A807A}|Task1.csproj|c:\\users\\38096\\desktop\\work\\metaprogramming-technologies\\lesson02\\task1\\usage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFC4996-78B5-43CF-93DF-87C92F7A807A}|Task1.csproj|solutionrelative:usage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFC4996-78B5-43CF-93DF-87C92F7A807A}|Task1.csproj|c:\\users\\38096\\desktop\\work\\metaprogramming-technologies\\lesson02\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFC4996-78B5-43CF-93DF-87C92F7A807A}|Task1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usage.cs",
+              "DocumentMoniker": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson02\\Task1\\Usage.cs",
+              "RelativeDocumentMoniker": "Usage.cs",
+              "ToolTip": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson02\\Task1\\Usage.cs",
+              "RelativeToolTip": "Usage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:32:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson02\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson02\\Task1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T19:29:12.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
