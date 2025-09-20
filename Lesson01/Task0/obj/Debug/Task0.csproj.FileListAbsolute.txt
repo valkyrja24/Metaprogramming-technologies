@@ -1,0 +1,7 @@
+C:\Users\38096\Desktop\work\C#\Task0\bin\Debug\Task0.exe.config
+C:\Users\38096\Desktop\work\C#\Task0\bin\Debug\Task0.exe
+C:\Users\38096\Desktop\work\C#\Task0\bin\Debug\Task0.pdb
+C:\Users\38096\Desktop\work\C#\Task0\obj\Debug\Task0.csproj.AssemblyReference.cache
+C:\Users\38096\Desktop\work\C#\Task0\obj\Debug\Task0.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\work\C#\Task0\obj\Debug\Task0.exe
+C:\Users\38096\Desktop\work\C#\Task0\obj\Debug\Task0.pdb
