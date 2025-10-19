@@ -1,0 +1,7 @@
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Boxing vs Generics\bin\Debug\Boxing vs Generics.exe.config
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Boxing vs Generics\bin\Debug\Boxing vs Generics.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Boxing vs Generics\bin\Debug\Boxing vs Generics.pdb
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Boxing vs Generics\obj\Debug\Boxing vs Generics.csproj.AssemblyReference.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Boxing vs Generics\obj\Debug\Boxing vs Generics.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Boxing vs Generics\obj\Debug\Boxing vs Generics.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Boxing vs Generics\obj\Debug\Boxing vs Generics.pdb
