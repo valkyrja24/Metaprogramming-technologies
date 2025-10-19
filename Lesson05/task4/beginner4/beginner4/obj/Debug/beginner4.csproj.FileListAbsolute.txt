@@ -1,0 +1,7 @@
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task4\beginner4\beginner4\obj\Debug\beginner4.csproj.AssemblyReference.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task4\beginner4\beginner4\obj\Debug\beginner4.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task4\beginner4\beginner4\bin\Debug\beginner4.exe.config
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task4\beginner4\beginner4\bin\Debug\beginner4.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task4\beginner4\beginner4\bin\Debug\beginner4.pdb
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task4\beginner4\beginner4\obj\Debug\beginner4.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task4\beginner4\beginner4\obj\Debug\beginner4.pdb

@@ -1,0 +1,7 @@
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task3\proficient3\proficient3\bin\Debug\proficient3.exe.config
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task3\proficient3\proficient3\bin\Debug\proficient3.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task3\proficient3\proficient3\bin\Debug\proficient3.pdb
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task3\proficient3\proficient3\obj\Debug\proficient3.csproj.AssemblyReference.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task3\proficient3\proficient3\obj\Debug\proficient3.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task3\proficient3\proficient3\obj\Debug\proficient3.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson05\task3\proficient3\proficient3\obj\Debug\proficient3.pdb
