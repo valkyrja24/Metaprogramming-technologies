@@ -1,0 +1,7 @@
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\TimeInterval\obj\Debug\TimeInterval.csproj.AssemblyReference.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\TimeInterval\obj\Debug\TimeInterval.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\TimeInterval\bin\Debug\TimeInterval.exe.config
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\TimeInterval\bin\Debug\TimeInterval.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\TimeInterval\bin\Debug\TimeInterval.pdb
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\TimeInterval\obj\Debug\TimeInterval.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\TimeInterval\obj\Debug\TimeInterval.pdb
