@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task5\\proficient5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91E666D6-788C-44C8-A3FC-3E6FCB436747}|proficient5.csproj|c:\\users\\38096\\desktop\\work\\metaprogramming-technologies\\lesson06\\task5\\proficient5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91E666D6-788C-44C8-A3FC-3E6FCB436747}|proficient5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task5\\proficient5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task5\\proficient5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:48:48.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

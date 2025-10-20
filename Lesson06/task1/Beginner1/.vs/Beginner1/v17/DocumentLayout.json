@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task1\\Beginner1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE84929-DB1C-4823-BC27-95F6D3E8668E}|Beginner1.csproj|c:\\users\\38096\\desktop\\work\\metaprogramming-technologies\\lesson06\\task1\\beginner1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE84929-DB1C-4823-BC27-95F6D3E8668E}|Beginner1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE84929-DB1C-4823-BC27-95F6D3E8668E}|Beginner1.csproj|c:\\users\\38096\\desktop\\work\\metaprogramming-technologies\\lesson06\\task1\\beginner1\\cleantextfiles.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5FE84929-DB1C-4823-BC27-95F6D3E8668E}|Beginner1.csproj|solutionrelative:cleantextfiles.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CleanTextFiles.csproj",
+              "DocumentMoniker": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task1\\Beginner1\\CleanTextFiles.csproj",
+              "RelativeDocumentMoniker": "CleanTextFiles.csproj",
+              "ToolTip": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task1\\Beginner1\\CleanTextFiles.csproj",
+              "RelativeToolTip": "CleanTextFiles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T02:57:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task1\\Beginner1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\38096\\Desktop\\work\\Metaprogramming-technologies\\Lesson06\\task1\\Beginner1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T02:54:47.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
