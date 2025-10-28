@@ -1,0 +1,7 @@
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task5\Beginner5\bin\Debug\Beginner5.exe.config
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task5\Beginner5\bin\Debug\Beginner5.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task5\Beginner5\bin\Debug\Beginner5.pdb
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task5\Beginner5\obj\Debug\Beginner5.csproj.AssemblyReference.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task5\Beginner5\obj\Debug\Beginner5.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task5\Beginner5\obj\Debug\Beginner5.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task5\Beginner5\obj\Debug\Beginner5.pdb

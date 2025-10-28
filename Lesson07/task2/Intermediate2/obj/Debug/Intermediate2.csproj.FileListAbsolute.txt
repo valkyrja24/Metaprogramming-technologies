@@ -1,0 +1,7 @@
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task2\Intermediate2\bin\Debug\Intermediate2.exe.config
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task2\Intermediate2\bin\Debug\Intermediate2.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task2\Intermediate2\bin\Debug\Intermediate2.pdb
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task2\Intermediate2\obj\Debug\Intermediate2.csproj.AssemblyReference.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task2\Intermediate2\obj\Debug\Intermediate2.csproj.CoreCompileInputs.cache
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task2\Intermediate2\obj\Debug\Intermediate2.exe
+C:\Users\38096\Desktop\work\Metaprogramming-technologies\Lesson07\task2\Intermediate2\obj\Debug\Intermediate2.pdb
